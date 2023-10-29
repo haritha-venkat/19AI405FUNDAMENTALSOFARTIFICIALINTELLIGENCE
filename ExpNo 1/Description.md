@@ -100,7 +100,8 @@ F H <BR>
 <hr>
 
 <h3> OUTPUT </h3>
-![image](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/5e92538a-2d85-4669-bbbb-31f4395b12d1)
+![image]![Screenshot 2023-10-29 193921](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/62db0373-496c-46df-b064-4da51193059a)
+
 
 <h3>Result:</h3>
 <hr>
