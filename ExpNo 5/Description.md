@@ -62,7 +62,7 @@ Let's walk through the algorithm's execution with the full move tree, and show w
 
 Here is the function for scoring the game:
 
-# @player is the turn taking player
+# player is the turn taking player
 def score(game)
     if game.win?(@player)
         return 10
@@ -81,15 +81,15 @@ def minimax(game)
     scores = [] # an array of scores
     moves = []  # an array of moves
 
-    # Populate the scores array, recursing as needed
-    game.get_available_moves.each do |move|
+ # Populate the scores array, recursing as needed
+ game.get_available_moves.each do |move|
         possible_game = game.get_new_state(move)
         scores.push minimax(possible_game)
         moves.push move
     end
 
-    # Do the min or the max calculation
-    if game.active_turn == @player
+ # Do the min or the max calculation
+ if game.active_turn == @player
         # This is the max calculation
         max_score_index = scores.each_with_index.max[1]
         @choice = moves[max_score_index]
