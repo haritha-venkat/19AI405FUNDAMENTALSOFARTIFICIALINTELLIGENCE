@@ -114,9 +114,8 @@ else:
 
 <h3>result:</h3>
 
-![image](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/3f62483c-90a9-4569-8ea8-3eb4eea68b21)
 
-![image](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/31d31d7a-0751-48c7-b72c-350804c1ab3c)
+![image](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/99d205c4-7d0e-4c5b-af9d-29bf95940617)
 
 
 <hr>
