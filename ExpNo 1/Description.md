@@ -100,6 +100,7 @@ F H <BR>
 <hr>
 
 <h3> OUTPUT </h3>
+
 ![image]![Screenshot 2023-10-29 193921](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/62db0373-496c-46df-b064-4da51193059a)
 
 
