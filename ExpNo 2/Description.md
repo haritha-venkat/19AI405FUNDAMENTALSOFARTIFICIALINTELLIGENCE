@@ -134,7 +134,7 @@ path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
-```
+
 <h3>output</h3>
 
 ![image](https://github.com/haritha-venkat/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121285701/ca7f4a23-9a8e-4054-bfc5-4b550edf12a6)
