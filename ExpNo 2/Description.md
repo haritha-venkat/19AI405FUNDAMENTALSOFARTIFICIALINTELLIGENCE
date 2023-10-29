@@ -88,6 +88,7 @@ G F <BR>
 <hr>
 
 <h3> program:</h3>
+
 ```python
 from collections import deque
 from collections import defaultdict
@@ -134,6 +135,7 @@ path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
+```
 
 <h3>output</h3>
 
